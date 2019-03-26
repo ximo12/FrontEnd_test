@@ -24,6 +24,17 @@ p{
   line-height: 1.5;
 }
 
+/* Sections */
+.colored-section{
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section{
+  background-color: #fff;
+}
+
+
 /* Containers */
 .container-fluid{
   padding: 7% 15%;
@@ -52,8 +63,6 @@ p{
 
 /* Title Section */
 #title{
-  background-color: #ff4c68;
-  color: #fff;
   text-align: left;
 }
 
@@ -77,7 +86,6 @@ p{
 
 /* Features */
 #features{
-  background-color: #fff;
   position: relative;
   z-index: 1;
 }
@@ -102,9 +110,7 @@ p{
 /* Testimonials */
 
 #testimonials{
-
   background-color: #ef8172;
-  color: #fff;
 }
 
 .testimonial-text{
@@ -143,10 +149,6 @@ p{
 
 /* CTA */
 
-#cta{
-  background-color: #ff4c68;
-  color: #fff;
-}
 
 /* Footer */
 .copyright-footer{
